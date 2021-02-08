@@ -44,12 +44,12 @@ It looks like most of the reviews made for Amazon Groceries are top Five Star Ra
 
 ## Percentage of the Total UnPaid five Star Reviews versus Total Five Star Reviews for Groceries
 ![AnalysisImages/percentunpaid5star](AnalysisImages/percentunpaid5star.PNG)
-* This proves that Most, over 99%, of Amazon Grocery Five star Ratings are from any Vine Paid Reviewers.*
+* This proves that Most, over 99%, of Amazon Grocery Five star Ratings are *Not* from any Vine Paid Reviewers.
 
 ### This fractional percent of Vine Paid Viewers are contributing to Five star ratings on Amazon Groceries.
 ![AnalysisImages/percentpaid5star](AnalysisImages/percentpaid5star.PNG)
 
-I would conclude that the Amazon Vine Program provides an * unbiased range of reviews * for it's products.
+I would conclude that the Amazon Vine Program provides an *unbiased range of reviews* for it's products.
 Vine reviewers account for such a small portion of the whole review community, their ratings are
 providing small or negligible influence. 
 
