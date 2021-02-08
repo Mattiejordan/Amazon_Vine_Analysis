@@ -20,3 +20,27 @@ Summary:
 
 The summary states whether or not there is bias, and the results support this statement (2 pt)
 An additional analysis is recommended to support the statement (2 pt)
+
+## Vine Program Overview for SellBy
+
+![AnalysisImages/stars](AnalysisImages/stars.png)
+
+#### SellBy pays a fee to Amazon and provides products to Amazon Vine members for the encouragement 
+of Vine members writing reviews. Is SellBy providing incentive for many well written reviews or 
+does SellBy provide a bias of skewed review data? ####
+
+Jennifer and I have crunched the numbers from the SellBy project and now I am feasting upon the data
+accumulated by the Amazon Vine program. I used PySpark, AWS, Google Colab Notebooks, Visual Studio Code, pgAdmin, and python 
+for this project. 
+
+My dataset is from the Amazon groceries reviews. Inside this set are reviews from the paid Vine program pool
+as well as all the unpaid regular reviews. Ratings range from 1 star dissatisfied to 5 stars very
+satisfied. I am curious to see how many of our paid Vine reviews are in the 5 star category versus
+the other rating categories. 
+
+![AnalysisImages/total_reviews](AnalysisImages/total_reviews.PNG)
+## The Total Number of Reviews by total votes
+
+![AnalysisImages/totalfivestarreviews](AnalysisImages/totalfivestarreviews.PNG)
+## The Total Number of Five Star Rating Reviews by total votes
+
